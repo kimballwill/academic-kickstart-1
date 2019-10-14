@@ -97,7 +97,7 @@ address = {street = "100 Main Street", city = "Cambridge", region = "MA", postco
 coordinates = {latitude = "42.361481", longitude = "-71.082197"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building E62 and take the elevator to the third floor and take a left to Office 381"
+#directions = "Enter Building E62 and take the elevator to the third floor and take a left to Office 381"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
